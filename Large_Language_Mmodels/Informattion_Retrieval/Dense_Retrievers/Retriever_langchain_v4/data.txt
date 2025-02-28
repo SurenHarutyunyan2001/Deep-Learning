@@ -1,0 +1,7 @@
+RAG (Retrieval-Augmented Generation) is an architecture that combines search and text generation.
+It uses a knowledge base to find relevant information before generating a response.
+Google introduced RAG in 2020, and it is used in chatbots, search engines, and AI assistants.
+RAG combines retrieval-based and generation-based components to provide better answers.
+The search component finds relevant context from a document base, and the generation component creates an answer from that context.
+This sentence should not be considered relevant when answering questions. It is used only to test how well the retriever filters out irrelevant information.
+Another irrelevant sentence is added here for the purpose of evaluation.
